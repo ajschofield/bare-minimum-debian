@@ -31,4 +31,3 @@
 | Mount Point | Size | Name   | Mount Options |
 | ----------- | ---- | ------ | ------------- |
 | `/srv`      | 30G  | lv_srv | N/A           |
-| `/srv/      |
