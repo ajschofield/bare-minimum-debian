@@ -23,7 +23,7 @@
 | `/tmp`      | 5G   | lv_tmp     | `noexec`      |
 | `/var`      | 20G  | lv_var     | N/A           |
 | `/var/log`  | 10G  | lv_var_log | N/A           |
-| `/var/tmp`  | 5G   | lv_var_tmp | N/A           |
+| `/var/tmp`  | 5G   | lv_var_tmp | `noexec`      |
 
 ### vg_data
 
